@@ -7,7 +7,7 @@ _Aplicación web con autenticación y registro de usuarios, donde podrás agenda
 ## Comenzando 🚀
 
 ```
-https://github.com/ariachuqui/calendar-app-frontend.git
+git clone https://github.com/ariachuqui/calendar-app-frontend.git
 ```
 
 
